@@ -46,6 +46,7 @@ The program uses a **C++ class** to implement all operations.
 bash
 g++ Problem-1.cpp -o p1
 ./p1
+
 🔢 Problem-2: Generate Series of Odd Numbers
 Given an integer a, the program prints the first a odd numbers.
 
@@ -58,6 +59,7 @@ bash
 Copy code
 g++ Problem-2.cpp -o p2
 ./p2
+
 🔢 Problem-3: Conditional Odd Number Series
 The output depends on whether a is odd or even:
 
@@ -76,6 +78,7 @@ bash
 Copy code
 g++ Problem-3.cpp -o p3
 ./p3
+
 📊 Problem-4: Count Multiples of 1–9
 Given a fixed list:
 [1, 2, 8, 9, 12, 46, 76, 82, 15, 20, 30]
