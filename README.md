@@ -43,7 +43,7 @@ A simple calculator that performs:
 The program uses a **C++ class** to implement all operations.
 
 ### **Run:**
-```bash
+bash
 g++ Problem-1.cpp -o p1
 ./p1
 🔢 Problem-2: Generate Series of Odd Numbers
